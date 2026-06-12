@@ -1,0 +1,137 @@
+[
+  {
+    "slug": "josh-keyes",
+    "name": "Dr. Josh Keyes",
+    "epithet": "geophysicist",
+    "emergence": "natural",
+    "moniker": "⟦Dr. Josh Keyes:COR:122c63⟧",
+    "kind": "carbon",
+    "actor": "Aaron Eckhart"
+  },
+  {
+    "slug": "rebecca-childs",
+    "name": "Maj. Rebecca ‘Beck’ Childs",
+    "epithet": "pilot",
+    "emergence": "natural",
+    "moniker": "⟦Maj. Rebecca ‘Beck’ Childs:COR:57ac4a⟧",
+    "kind": "carbon",
+    "actor": "Hilary Swank"
+  },
+  {
+    "slug": "conrad-zimsky",
+    "name": "Dr. Conrad Zimsky",
+    "epithet": "the celebrity scientist",
+    "emergence": "spiritual",
+    "moniker": "⟦Dr. Conrad Zimsky:COR:155ba7⟧",
+    "kind": "carbon",
+    "actor": "Stanley Tucci"
+  },
+  {
+    "slug": "serge-leveque",
+    "name": "Dr. Serge Leveque",
+    "epithet": "weapons expert",
+    "emergence": "natural",
+    "moniker": "⟦Dr. Serge Leveque:COR:69344c⟧",
+    "kind": "carbon",
+    "actor": "Tchéky Karyo"
+  },
+  {
+    "slug": "ed-brazzleton",
+    "name": "Dr. Ed ‘Braz’ Brazzleton",
+    "epithet": "the engineer",
+    "emergence": "electrical",
+    "moniker": "⟦Dr. Ed ‘Braz’ Brazzleton:COR:821cdd⟧",
+    "kind": "carbon",
+    "actor": "Delroy Lindo"
+  },
+  {
+    "slug": "robert-iverson",
+    "name": "Cmdr. Robert Iverson",
+    "epithet": "commander",
+    "emergence": "natural",
+    "moniker": "⟦Cmdr. Robert Iverson:COR:e042c1⟧",
+    "kind": "carbon",
+    "actor": "Bruce Greenwood"
+  },
+  {
+    "slug": "rat-finch",
+    "name": "Theodore ‘Rat’ Finch",
+    "epithet": "the hacker",
+    "emergence": "electrical",
+    "moniker": "⟦Theodore ‘Rat’ Finch:COR:d9b9d5⟧",
+    "kind": "carbon",
+    "actor": "DJ Qualls"
+  },
+  {
+    "slug": "thomas-purcell",
+    "name": "Gen. Thomas Purcell",
+    "epithet": "the general",
+    "emergence": "spiritual",
+    "moniker": "⟦Gen. Thomas Purcell:COR:509720⟧",
+    "kind": "carbon",
+    "actor": "Richard Jenkins"
+  },
+  {
+    "slug": "virgil",
+    "name": "Virgil",
+    "epithet": "the ship",
+    "emergence": "spiritual",
+    "moniker": "⟦Virgil:COR:ce855a⟧",
+    "kind": "synth",
+    "actor": ""
+  },
+  {
+    "slug": "unobtainium",
+    "name": "Unobtainium",
+    "epithet": "the miracle material",
+    "emergence": "electrical",
+    "moniker": "⟦Unobtainium:COR:bb33e9⟧",
+    "kind": "synth",
+    "actor": ""
+  },
+  {
+    "slug": "destini",
+    "name": "DESTINI",
+    "epithet": "the weapon that caused it",
+    "emergence": "electrical",
+    "moniker": "⟦DESTINI:COR:b87adb⟧",
+    "kind": "synth",
+    "actor": ""
+  },
+  {
+    "slug": "the-field-collapse",
+    "name": "The Field Collapse",
+    "epithet": "the dying magnetosphere",
+    "emergence": "ethereal",
+    "moniker": "⟦The Field Collapse:COR:62c11f⟧",
+    "kind": "synth",
+    "actor": ""
+  },
+  {
+    "slug": "the-terranauts-sacrifice",
+    "name": "The Sacrifice",
+    "epithet": "the crew, spent one by one",
+    "emergence": "spiritual",
+    "moniker": "⟦The Sacrifice:COR:f93f81⟧",
+    "kind": "synth",
+    "actor": ""
+  },
+  {
+    "slug": "the-restart",
+    "name": "The Restart",
+    "epithet": "nuking the core back to life",
+    "emergence": "electrical",
+    "moniker": "⟦The Restart:COR:d7e89e⟧",
+    "kind": "synth",
+    "actor": ""
+  },
+  {
+    "slug": "rat-and-the-net",
+    "name": "The Scrubbed Net",
+    "epithet": "deleting the apocalypse from the feeds",
+    "emergence": "electrical",
+    "moniker": "⟦The Scrubbed Net:COR:d33ea1⟧",
+    "kind": "synth",
+    "actor": ""
+  }
+]
