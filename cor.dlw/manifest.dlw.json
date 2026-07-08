@@ -9,5 +9,12 @@
   "seal": "The core stopped, the field is dying, and the only plan left is to drill to the center of the Earth and restart the world with bombs.",
   "seal_sha256": "17605e34d7d3d31dce702787ab6cf7b0d0962d6937ee956a7a12872196fe0b25",
   "license": "CC-BY-ND-4.0",
-  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+  "attribution": "ROOT0-ATTRIBUTION-v1.0",
+  "chain": {
+    "index": 679,
+    "prev": "d1adb5b332620d4a851d0eb384ad43e37f0e16635c1483c5b2ff3f436eebcae4",
+    "link": "bc804e986a919fd1961746ebd4c2ccb7d65318988457658c1e7689a36ffab2a3",
+    "head": "3447d3a0533aaf1e29a8bdc67a9774884fb3ae9dbc8a17064b7a008ca3c4ec90",
+    "chain": "ROOT0-DLW-CHAIN-v1"
+  }
 }
